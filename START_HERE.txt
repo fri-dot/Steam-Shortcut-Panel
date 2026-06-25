@@ -1,0 +1,130 @@
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║               🚀 STEAM ICON PANEL - START HERE 🚀             ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
+👋 WELCOME!
+
+Your Steam Icon Panel application is ready to use!
+
+────────────────────────────────────────────────────────────────
+
+⚡ QUICK START (2 STEPS):
+
+1️⃣  Double-click this file to run:
+    📁 Steam Icon Panel.exe
+
+2️⃣  Follow the setup wizard
+    ✓ It will install what's needed
+    ✓ Then launch automatically
+
+That's it! You're done! 🎉
+
+────────────────────────────────────────────────────────────────
+
+📁 FOLDER GUIDE:
+
+📄 In This Folder (Root):
+  ✓ Steam Icon Panel.exe  ← RUN THIS FILE!
+  ✓ START_HERE.txt        ← You are here
+  ✓ Docs/                 ← Help & guides
+  ✓ Source/               ← Source code (for developers)
+  ✓ Build/                ← Build scripts (for developers)
+  ✓ BuildOutput/          ← Build files (for developers)
+
+📚 Docs Folder:
+  → QUICKSTART.md         (Fast overview)
+  → STEAM_ICON_PANEL_GUIDE.md (Complete guide)
+  → SETUP_GUIDE.md        (Setup instructions)
+  → README.md             (Features list)
+  → BUILD_NOW.txt         (Build checklist)
+  → And more...
+
+👨‍💻 Source Folder (Developers only):
+  → main.py               (Main application)
+  → setup.py              (Setup wizard)
+  → create_icon.py        (Icon generator)
+  → requirements.txt      (Python packages)
+  → icon.ico              (Icon file)
+
+🔧 Build Folder (Developers only):
+  → build_exe.bat         (Build script)
+  → BUILD_REFERENCE.bat
+  → main.spec             (PyInstaller config)
+  → Steam Icon Panel.spec
+
+🏭 BuildOutput Folder (Developers only):
+  → Previous build files & output
+
+────────────────────────────────────────────────────────────────
+
+🎯 WHAT TO DO NOW:
+
+FOR USERS:
+  ▶ Double-click: Steam Icon Panel.exe
+  ▶ Wait for setup wizard
+  ▶ Click "Install & Continue"
+  ▶ Let it install packages (1-2 minutes)
+  ▶ Use the application!
+
+FOR DEVELOPERS:
+  ▶ See: Build/ folder for rebuilding
+  ▶ See: Source/ folder for code
+  ▶ See: Docs/ for detailed guides
+
+────────────────────────────────────────────────────────────────
+
+❓ NEED HELP?
+
+First-time setup issues?
+  → See: Docs/SETUP_GUIDE.md
+
+How to use the app?
+  → See: Docs/STEAM_ICON_PANEL_GUIDE.md
+
+Quick overview?
+  → See: Docs/QUICKSTART.md
+
+Features list?
+  → See: Docs/README.md
+
+Building/rebuilding?
+  → See: Build/ folder
+
+────────────────────────────────────────────────────────────────
+
+🎮 APP FEATURES:
+
+✓ Create Steam game shortcuts
+✓ Auto-fetch game icons
+✓ Custom shortcut locations
+✓ Multiple Steam libraries support
+✓ Beautiful dark interface
+✓ Fast batch processing
+
+────────────────────────────────────────────────────────────────
+
+💻 SYSTEM REQUIREMENTS:
+
+✓ Windows 10 or newer
+✓ Python 3.9+ (installed separately)
+✓ Internet connection (first run only)
+
+────────────────────────────────────────────────────────────────
+
+🚀 THAT'S IT!
+
+              Just run: Steam Icon Panel.exe
+
+    Everything else happens automatically! 👍
+
+────────────────────────────────────────────────────────────────
+
+Questions? Check the Docs folder! 📚
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║     Ready? Double-click Steam Icon Panel.exe to start!        ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
